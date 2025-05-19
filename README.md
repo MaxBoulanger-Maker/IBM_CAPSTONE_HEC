@@ -1,32 +1,31 @@
 #  SpaceX Falcon 9 Landing Prediction
 
-This project is the final capstone for the **IBM Data Science Professional Certificate** on Coursera.
+Final capstone project for the **IBM Data Science Professional Certificate** on Coursera.
 
-##  Goal
+##  Objective
 
-Predict whether the first stage of a Falcon 9 rocket will **land successfully**, using publicly available data and classification models.
+Predict the success of Falcon 9 first-stage landings using public data and classification models.
 
-##  What Was Done
+##  Summary of Work
 
-- **Data Collection**: via SpaceX REST API + web scraping Wikipedia  
-- **Data Wrangling**: cleaning, feature engineering, one-hot encoding  
-- **EDA**: visualizing trends in payload, orbits, launch sites, and success rates  
-- **Machine Learning**: compared Logistic Regression, SVM, KNN, and Decision Tree  
-- ✅ **Best model**: **Decision Tree** (highest accuracy and F1-score)
+- **Data Collection**: SpaceX REST API + Wikipedia web scraping  
+- **Data Cleaning**: filtering, feature engineering, encoding  
+- **EDA**: visual insights on payloads, orbits, and launch sites  
+- **Modeling**: Logistic Regression, SVM, KNN, Decision Tree  
+- **Best model**: Decision Tree (highest accuracy & F1-score)
 
-##  Project Files
+##  Contents
 
-- Jupyter notebooks: data collection, wrangling, EDA, modeling  
-- PDF report: `ds-capstone-template-coursera.pdf`  
-- GitHub repo: [MaxBoulanger-Maker/IBM_CAPSTONE_HEC](https://github.com/MaxBoulanger-Maker/IBM_CAPSTONE_HEC)
+- Jupyter notebooks: data, analysis, modeling  
+- Final report: `ds-capstone-template-coursera.pdf`  
+- GitHub: [IBM_CAPSTONE_HEC](https://github.com/MaxBoulanger-Maker/IBM_CAPSTONE_HEC)
 
-##  Acknowledgements
+##  Thanks
 
-Thanks to **IBM** and **Coursera** for offering this excellent program.  
-Special thanks to the mentors and community who supported this learning journey.
+Thanks to **IBM** and **Coursera** for this valuable program.  
+Gratitude to the mentors and peers for their support.
 
----
+##  Contact
 
- **Connect with me**  
- Maxime Boulanger  
- [LinkedIn – maxime-boulanger](https://www.linkedin.com/in/maxime-boulanger-23759b351)
+**Maxime Boulanger**  
+ [LinkedIn](https://www.linkedin.com/in/maxime-boulanger-23759b351)
