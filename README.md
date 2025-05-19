@@ -1,4 +1,4 @@
-## SpaceX Falcon 9 Landing Prediction
+#  SpaceX Falcon 9 Landing Prediction
 
 This project is the final capstone for the **IBM Data Science Professional Certificate** on Coursera.
 
@@ -12,7 +12,7 @@ Predict whether the first stage of a Falcon 9 rocket will **land successfully**,
 - **Data Wrangling**: cleaning, feature engineering, one-hot encoding  
 - **EDA**: visualizing trends in payload, orbits, launch sites, and success rates  
 - **Machine Learning**: compared Logistic Regression, SVM, KNN, and Decision Tree  
--  **Best model**: **Decision Tree** (highest accuracy and F1-score)
+- ✅ **Best model**: **Decision Tree** (highest accuracy and F1-score)
 
 ##  Project Files
 
@@ -23,7 +23,10 @@ Predict whether the first stage of a Falcon 9 rocket will **land successfully**,
 ##  Acknowledgements
 
 Thanks to **IBM** and **Coursera** for offering this excellent program.  
-Special thanks to the community and mentors who supported this learning journey.
+Special thanks to the mentors and community who supported this learning journey.
 
-— *Maxime Boulanger*
+---
 
+ **Connect with me**  
+ Maxime Boulanger  
+ [LinkedIn – maxime-boulanger](https://www.linkedin.com/in/maxime-boulanger-23759b351)
